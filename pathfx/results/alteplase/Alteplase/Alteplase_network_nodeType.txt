@@ -1,0 +1,71 @@
+node_name	node_type	
+Alteplase	drug	
+PLAUR	drug_target	
+SERPINE1	drug_target	
+PLG	drug_target	
+FGA	drug_target	
+neuropathy	phenotype	
+macrothrombocytopenia	phenotype	
+prehypertension	phenotype	
+tonic seizures	phenotype	
+pneumocystis jiroveci pneumonia	phenotype	
+sepsis	phenotype	
+phen_knockout_hypertension	phenotype	
+phen_sig_tp_noFP_Dis_hypertension	phenotype	
+phen_sig_knockout_noFP_Sig_thrombocytopenia	phenotype	
+phen_sig_noise_noFP_Dis_myocardial infarction	phenotype	
+phen_sig_noise_noFP_Sig_myocardial infarction	phenotype	
+phen_tp_hypertension	phenotype	
+acute myocardial infarction	phenotype	
+phen_sig_tp_noFP_Sig_thrombocytopenia	phenotype	
+essential hypertension	phenotype	
+phen_sig_knockout_noFP_Dis_hypertension	phenotype	
+streptococcal pneumonia	phenotype	
+edema	phenotype	
+embolic infarction, middle cerebral artery	phenotype	
+seizures	phenotype	
+sleep disorders	phenotype	
+old myocardial infarction	phenotype	
+acute pancreatitis	phenotype	
+peptic ulcer	phenotype	
+phen_sig_noise_noFP_Dis_hypertension	phenotype	
+phen_sig_noise_noFP_Sig_hypertension	phenotype	
+peripheral neuropathy	phenotype	
+pancreatitis	phenotype	
+skin hemorrhages	phenotype	
+phen_sig_knockout_noFP_Sig_pancreatitis	phenotype	
+sciatic neuropathy	phenotype	
+phen_sig_tp_noFP_Sig_myocardial infarction	phenotype	
+phen_sig_tp_noFP_Sig_pancreatitis	phenotype	
+pleuropneumonia	phenotype	
+seizures, clonic	phenotype	
+tachycardia	phenotype	
+thrombosis	phenotype	
+stevens-johnson syndrome	phenotype	
+cerebral infarction	phenotype	
+lung cyst	phenotype	
+familial hypercholesterolemia	phenotype	
+genetic hypertension	phenotype	
+brain ischemia	phenotype	
+drug-induced stevens johnson syndrome	phenotype	
+phen_sig_knockout_noFP_Dis_pancreatitis	phenotype	
+brain edema	phenotype	
+septicemia	phenotype	
+thrombosis of inferior vena cava	phenotype	
+delirium	phenotype	
+deep vein thrombosis	phenotype	
+phen_sig_tp_noFP_Dis_pancreatitis	phenotype	
+hemorrhage	phenotype	
+phen_knockout_pancreatitis	phenotype	
+thrombocytopenia 5	phenotype	
+phen_noise_pancreatitis	phenotype	
+phen_tp_pancreatitis	phenotype	
+phen_sig_noise_noFP_Dis_pancreatitis	phenotype	
+phen_sig_noise_noFP_Sig_pancreatitis	phenotype	
+oral dyskinesia	phenotype	
+idiopathic thrombocytopenia	phenotype	
+myopathy	phenotype	
+venous thrombosis	phenotype	
+pulmonary edema	phenotype	
+thrombocytopenia 6	phenotype	
+drug-induced tardive dyskinesia	phenotype	

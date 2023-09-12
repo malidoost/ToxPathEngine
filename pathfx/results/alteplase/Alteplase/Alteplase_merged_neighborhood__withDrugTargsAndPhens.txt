@@ -1,0 +1,208 @@
+node1	node2	edge_score	
+Alteplase	PLAUR	1.0	
+Alteplase	SERPINE1	1.0	
+Alteplase	PLG	1.0	
+Alteplase	FGA	1.0	
+PLAUR		1.0
+SERPINE1	rs6092	0.99
+SERPINE1		1.0
+SERPINE1	rs2227631	0.99
+SERPINE1	rs1799889	0.99
+PLG	PLAT	0.8626533706911382
+PLG		1.0
+FGA	TLN1	0.8654590405262035
+FGA		1.0
+FGA	RAP1B	0.8654590405262035
+FGA	RAP1A	0.8654590405262035
+ITGB3	rs5918	0.8574563790374032
+FGA	ITGB3	0.8661175545832356
+FGA	SRC	0.8659427526468915
+FGA	VWF	0.8633025591362801
+FGA	CSK	0.8497082254156562
+FGA	PTK2	0.859961955520961
+neuropathy	FGA	1.0	
+neuropathy	ITGB3	1.0	
+neuropathy	PLAT	1.0	
+neuropathy	SERPINE1	1.0	
+neuropathy	VWF	1.0	
+macrothrombocytopenia	FGA	1.0	
+macrothrombocytopenia	ITGB3	1.0	
+macrothrombocytopenia	PLAT	1.0	
+macrothrombocytopenia	PLG	1.0	
+macrothrombocytopenia	SERPINE1	1.0	
+macrothrombocytopenia	VWF	1.0	
+prehypertension	CSK	1.0	
+prehypertension	FGA	1.0	
+prehypertension	PLAT	1.0	
+prehypertension	PLG	1.0	
+prehypertension	PTK2	1.0	
+prehypertension	RAP1A	1.0	
+prehypertension	RAP1B	1.0	
+prehypertension	SERPINE1	1.0	
+prehypertension	SRC	1.0	
+prehypertension	VWF	1.0	
+tonic seizures	FGA	1.0	
+tonic seizures	PLAT	1.0	
+tonic seizures	SERPINE1	1.0	
+tonic seizures	VWF	1.0	
+pneumocystis jiroveci pneumonia	ITGB3	1.0	
+pneumocystis jiroveci pneumonia	PLAT	1.0	
+pneumocystis jiroveci pneumonia	PLG	1.0	
+pneumocystis jiroveci pneumonia	PTK2	1.0	
+pneumocystis jiroveci pneumonia	SERPINE1	1.0	
+pneumocystis jiroveci pneumonia	VWF	1.0	
+sepsis	FGA	1.0	
+sepsis	ITGB3	1.0	
+sepsis	PLAT	1.0	
+sepsis	SERPINE1	1.0	
+sepsis	VWF	1.0	
+phen_knockout_hypertension	FGA	1.0	
+phen_knockout_hypertension	PLAT	1.0	
+phen_knockout_hypertension	PLG	1.0	
+phen_knockout_hypertension	SERPINE1	1.0	
+phen_sig_tp_noFP_Dis_hypertension	FGA	1.0	
+phen_sig_tp_noFP_Dis_hypertension	PLAT	1.0	
+phen_sig_tp_noFP_Dis_hypertension	PLG	1.0	
+phen_sig_tp_noFP_Dis_hypertension	SERPINE1	1.0	
+phen_sig_knockout_noFP_Sig_thrombocytopenia	ITGB3	1.0	
+phen_sig_knockout_noFP_Sig_thrombocytopenia	PLG	1.0	
+phen_sig_knockout_noFP_Sig_thrombocytopenia	VWF	1.0	
+phen_sig_noise_noFP_Dis_myocardial infarction	ITGB3	1.0	
+phen_sig_noise_noFP_Dis_myocardial infarction	PLAUR	1.0	
+phen_sig_noise_noFP_Dis_myocardial infarction	SERPINE1	1.0	
+phen_sig_noise_noFP_Sig_myocardial infarction	ITGB3	1.0	
+phen_sig_noise_noFP_Sig_myocardial infarction	PLAUR	1.0	
+phen_sig_noise_noFP_Sig_myocardial infarction	SERPINE1	1.0	
+phen_tp_hypertension	FGA	1.0	
+phen_tp_hypertension	PLAT	1.0	
+phen_tp_hypertension	PLG	1.0	
+phen_tp_hypertension	SERPINE1	1.0	
+acute myocardial infarction	ITGB3	1.0	
+acute myocardial infarction	PLAT	1.0	
+acute myocardial infarction	VWF	1.0	
+phen_sig_tp_noFP_Sig_thrombocytopenia	ITGB3	1.0	
+phen_sig_tp_noFP_Sig_thrombocytopenia	PLG	1.0	
+phen_sig_tp_noFP_Sig_thrombocytopenia	VWF	1.0	
+essential hypertension	FGA	1.0	
+essential hypertension	ITGB3	1.0	
+essential hypertension	PLG	1.0	
+essential hypertension	SRC	1.0	
+essential hypertension	VWF	1.0	
+phen_sig_knockout_noFP_Dis_hypertension	FGA	1.0	
+phen_sig_knockout_noFP_Dis_hypertension	PLG	1.0	
+phen_sig_knockout_noFP_Dis_hypertension	SERPINE1	1.0	
+streptococcal pneumonia	FGA	1.0	
+streptococcal pneumonia	ITGB3	1.0	
+streptococcal pneumonia	PLAT	1.0	
+streptococcal pneumonia	PLG	1.0	
+streptococcal pneumonia	SERPINE1	1.0	
+streptococcal pneumonia	VWF	1.0	
+edema	PLAT	1.0	
+edema	PLAUR	1.0	
+edema	PLG	1.0	
+edema	SERPINE1	1.0	
+edema	VWF	1.0	
+embolic infarction, middle cerebral artery	FGA	1.0	
+embolic infarction, middle cerebral artery	PLAT	1.0	
+embolic infarction, middle cerebral artery	SERPINE1	1.0	
+embolic infarction, middle cerebral artery	SRC	1.0	
+seizures	PLAT	1.0	
+seizures	SERPINE1	1.0	
+seizures	VWF	1.0	
+sleep disorders	ITGB3	1.0	
+sleep disorders	VWF	1.0	
+old myocardial infarction	PLAT	1.0	
+old myocardial infarction	PLAUR	1.0	
+old myocardial infarction	PLG	1.0	
+old myocardial infarction	PTK2	1.0	
+old myocardial infarction	RAP1A	1.0	
+old myocardial infarction	RAP1B	1.0	
+old myocardial infarction	SERPINE1	1.0	
+old myocardial infarction	SRC	1.0	
+acute pancreatitis	PLAT	1.0	
+acute pancreatitis	PLG	1.0	
+acute pancreatitis	SERPINE1	1.0	
+acute pancreatitis	VWF	1.0	
+peptic ulcer	PLAT	1.0	
+peptic ulcer	PLAUR	1.0	
+peptic ulcer	PLG	1.0	
+peptic ulcer	SERPINE1	1.0	
+peptic ulcer	VWF	1.0	
+phen_sig_noise_noFP_Dis_hypertension	RAP1A	1.0	
+phen_sig_noise_noFP_Dis_hypertension	RAP1B	1.0	
+phen_sig_noise_noFP_Sig_hypertension	RAP1A	1.0	
+phen_sig_noise_noFP_Sig_hypertension	RAP1B	1.0	
+peripheral neuropathy	PLAT	1.0	
+peripheral neuropathy	SERPINE1	1.0	
+peripheral neuropathy	VWF	1.0	
+pancreatitis	PLG	1.0	
+pancreatitis	SERPINE1	1.0	
+skin hemorrhages	FGA	1.0	
+skin hemorrhages	SERPINE1	1.0	
+skin hemorrhages	VWF	1.0	
+phen_sig_knockout_noFP_Sig_pancreatitis	RAP1A	1.0	
+phen_sig_knockout_noFP_Sig_pancreatitis	RAP1B	1.0	
+sciatic neuropathy	FGA	1.0	
+sciatic neuropathy	ITGB3	1.0	
+sciatic neuropathy	PLAT	1.0	
+sciatic neuropathy	PLAUR	1.0	
+sciatic neuropathy	PLG	1.0	
+sciatic neuropathy	SERPINE1	1.0	
+sciatic neuropathy	VWF	1.0	
+phen_sig_tp_noFP_Sig_myocardial infarction	PTK2	1.0	
+phen_sig_tp_noFP_Sig_myocardial infarction	VWF	1.0	
+phen_sig_tp_noFP_Sig_pancreatitis	RAP1A	1.0	
+phen_sig_tp_noFP_Sig_pancreatitis	RAP1B	1.0	
+pleuropneumonia	ITGB3	1.0	
+pleuropneumonia	PLAT	1.0	
+seizures, clonic	PLAT	1.0	
+seizures, clonic	PLG	1.0	
+seizures, clonic	RAP1B	1.0	
+seizures, clonic	SERPINE1	1.0	
+tachycardia	SERPINE1	1.0	
+tachycardia	VWF	1.0	
+thrombosis	PLG	1.0	
+thrombosis	SERPINE1	1.0	
+stevens-johnson syndrome	PLG	1.0	
+stevens-johnson syndrome	SRC	1.0	
+cerebral infarction	PLAT	1.0	
+cerebral infarction	SERPINE1	1.0	
+lung cyst	PLG	1.0	
+lung cyst	SERPINE1	1.0	
+familial hypercholesterolemia	ITGB3	1.0	
+familial hypercholesterolemia	RAP1A	1.0	
+genetic hypertension	ITGB3	1.0	
+genetic hypertension	SERPINE1	1.0	
+brain ischemia	ITGB3	1.0	
+brain ischemia	SERPINE1	1.0	
+drug-induced stevens johnson syndrome	PLG	1.0	
+drug-induced stevens johnson syndrome	SERPINE1	1.0	
+drug-induced stevens johnson syndrome	VWF	1.0	
+phen_sig_knockout_noFP_Dis_pancreatitis	PLAUR	1.0	
+brain edema	PLAT	1.0	
+septicemia	PLAT	1.0	
+thrombosis of inferior vena cava	PLAT	1.0	
+delirium	PLAT	1.0	
+deep vein thrombosis	SRC	1.0	
+phen_sig_tp_noFP_Dis_pancreatitis	PLAUR	1.0	
+hemorrhage	ITGB3	1.0	
+hemorrhage	SRC	1.0	
+hemorrhage	VWF	1.0	
+phen_knockout_pancreatitis	PLAUR	1.0	
+thrombocytopenia 5	SERPINE1	1.0	
+thrombocytopenia 5	VWF	1.0	
+phen_noise_pancreatitis	FGA	1.0	
+phen_tp_pancreatitis	PLAUR	1.0	
+phen_sig_noise_noFP_Dis_pancreatitis	FGA	1.0	
+phen_sig_noise_noFP_Sig_pancreatitis	FGA	1.0	
+oral dyskinesia	PLG	1.0	
+oral dyskinesia	SERPINE1	1.0	
+idiopathic thrombocytopenia	SERPINE1	1.0	
+idiopathic thrombocytopenia	VWF	1.0	
+myopathy	SERPINE1	1.0	
+venous thrombosis	PLAT	1.0	
+pulmonary edema	PLAT	1.0	
+thrombocytopenia 6	PLG	1.0	
+thrombocytopenia 6	SERPINE1	1.0	
+drug-induced tardive dyskinesia	FGA	1.0	
+drug-induced tardive dyskinesia	PLAUR	1.0	
