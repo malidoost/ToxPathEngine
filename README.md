@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and associated resources for the research presented in the manuscript titled "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models". The research focuses on [findings of the research].
+This repository contains the code and associated resources for the research presented in the manuscript titled "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models". The research focuses on enhancing drug side effect predictions using protein interaction networks and pathway engineering, by including key pathway genes and omics data measurements.
 
 ## Table of Contents
 
@@ -40,5 +40,5 @@ Provide detailed instructions on how to use the code. You can include code snipp
 
 If you use this code or the associated research in your work, please consider citing our manuscript:
 
-[Author(s). "Title of Your Manuscript." Journal Name, Year.]
+[Alidoost, Mohammadali and Wilson, L. Jennifer, "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models", In Preparation.]
 
