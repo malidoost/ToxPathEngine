@@ -19,13 +19,12 @@ These instructions will help you get a copy of the project up and running on you
 
 Prerequisites that are necessary to run the code:
 
-- Python 3.6+
-- Required Python packages (e.g., NumPy, TensorFlow)
-- Any specific hardware or software requirements
+- **ToxPathEngine** was developed using the Python programming language.
+- For setup guidance, please visit [**PathFX**](https://github.com/jenwilson521/PathFX) and follow the provided instructions.
 
 ## Usage
 
-Provide detailed instructions on how to use the code. You can include code snippets, examples, or scripts. For example:
+Detailed instructions on how to use the code:
 
 1. Clone this repository to your local machine:
 
