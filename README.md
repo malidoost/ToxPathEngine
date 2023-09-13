@@ -17,7 +17,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ## Prerequisites
 
-List any prerequisites that are necessary to run the code. For example:
+Prerequisites that are necessary to run the code:
 
 - Python 3.6+
 - Required Python packages (e.g., NumPy, TensorFlow)
@@ -40,5 +40,5 @@ Provide detailed instructions on how to use the code. You can include code snipp
 
 If you use this code or the associated research in your work, please consider citing our manuscript:
 
-[Alidoost, Mohammadali and Wilson, L. Jennifer, "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models", In Preparation.]
+Alidoost, Mohammadali and Wilson, L. Jennifer, "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models", In Preparation.
 
