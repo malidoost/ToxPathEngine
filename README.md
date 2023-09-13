@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and associated resources for the research presented in the manuscript titled "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models". The research focuses on enhancing drug side effect predictions using protein interaction networks and pathway engineering, by including key pathway genes and omics data measurements. Running ToxPathEngine will generate all [PathFX]([url](https://github.com/jenwilson521/PathFX)) results along with predictions per side effect, e.g., sensitivity and specificity.
+This repository contains the code and associated resources for the research presented in the manuscript titled "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models". The research focuses on enhancing drug side effect predictions using protein interaction networks and pathway engineering, by including key pathway genes and omics data measurements. Running ToxPathEngine will generate all [PathFX]([https://github.com/jenwilson521/PathFX]) results along with predictions per side effect, e.g., sensitivity and specificity.
 
 ## Table of Contents
 
