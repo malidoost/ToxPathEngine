@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and associated resources for the research presented in the manuscript titled "**Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models**". The research focuses on enhancing drug side effect predictions using protein interaction networks and pathway engineering, by including key pathway genes and omics data measurements. Running **ToxPathEngine** will generate all [**PathFX**](https://github.com/jenwilson521/PathFX) results along with predictions per side effect, e.g., sensitivity and specificity.
+This repository, **ToxPathEngine**, contains the code and associated resources for the research presented in the manuscript titled "**Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models**". The research focuses on enhancing drug side effect predictions using protein interaction networks and pathway engineering, by including key pathway genes and omics data measurements. **ToxPathEngine** uses another tool called [**PathFX**](https://github.com/jenwilson521/PathFX), which is a protein-protein interaction tool. **ToxPathEngine** can identify distinct pathways, define novel gene pathways, and generate PathFX results using those new pathways along with the side effect evaluation metrics.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Detailed instructions on how to use the code:
 
 - Clone this repository to your local machine/cluster.
 - You can use the text file in the "data" folder. It contains the dataset we used for our analysis, the drug toxicity dataset, consisting of pairs of drugs and their associated side effects obtained from drug labels.
-- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the "pathfx" folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX on your local drive. Subsequently, you can use the "runpathfx_scr.py" script in our "scripts" folder to run the last version of PathFX on your operating system and re-generate the results.
+- To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the "pathfx" folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the "runpathfx_scr.py" script in our "scripts" folder to run the last version of PathFX on your operating system and re-generate the results.
 -  The "scripts" folder includes all the scripts needed to re-generate our analyses:
    - "map_scr.py": map drugs and map/match side effects
    - "runpathfx_scr.py": run the last version of PathFX to generate the results of the paper
