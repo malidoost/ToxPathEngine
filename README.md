@@ -35,6 +35,7 @@ Detailed instructions on how to use the code:
    - "sepred_scr.py": evaluate per side effect in the baseline analysis (calculate the sensitivity and specificity values) and identify the key pathway genes
    - "defpath_scr.py": define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways
    - "evalnewpath_scr.py": evaluate (the novel defined) pathways per side effect and their corresponding phenotypes and produce the evaluation plots
+- Important Note: Make sure to update the directory paths in all scripts to match your local environment before running them.
 
 ## Citation
 
