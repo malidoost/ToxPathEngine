@@ -26,14 +26,11 @@ Prerequisites that are necessary to run the code:
 
 Detailed instructions on how to use the code:
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git
-
-2. Navigate to the project directory:
-3. Install the required dependencies:
-4. Run the main script:
+1. Clone this repository to your local machine.
+2. The "scripts" folder includes all the scripts needed to re-generate our analysis:
+   - map_scr: mapping drugs and mapping/matching side effects
+   - 
+4. 
 
 ## Citation
 
