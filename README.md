@@ -26,13 +26,15 @@ Prerequisites that are necessary to run the code:
 
 Detailed instructions on how to use the code:
 
-- Clone this repository to your local machine.
--  The "scripts" folder includes all the scripts needed to re-generate our analysis:
+- Clone this repository to your local machine/cluster.
+- You can use the text file in the "data" folder. It contains the dataset we used for our analysis, the drug toxicity dataset, consisting of pairs of drugs and their associated side effects obtained from drug labels.
+-  The "scripts" folder includes all the scripts needed to re-generate our analyses:
    - "map_scr.py": map drugs and map/match side effects
    - "runpathfx_scr.py": run the last version of PathFX to generate the results of the paper
-   - "sepred_scr.py": evaluate per side effect in the baseline analysis and identify the key pathway genes
+   - "sepred_scr.py": evaluate per side effect in the baseline analysis (calculate the sensitivity and specificity values) and identify the key pathway genes
    - "defpath_scr.py": define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways
-   - "evalnewpath_scr.py": evaluate the novel defined pathways per side effect and their corresponding phenotypes and produce the evaluation plots 
+   - "evalnewpath_scr.py": evaluate (the novel defined) pathways per side effect and their corresponding phenotypes and produce the evaluation plots
+-   
 
 ## Citation
 
