@@ -30,11 +30,11 @@ Detailed instructions on how to use the code:
 - You can use the text file in the "data" folder. It contains the dataset we used for our analysis, the drug toxicity dataset, consisting of pairs of drugs and their associated side effects obtained from drug labels.
 - To be able to run the last version of PathFX made in our analyses, first, you need to clone [**PathFX**](https://github.com/jenwilson521/PathFX). Afterward, you should add (copy/paste) the files available in the "pathfx" folder here in this GitHub repository to the same folder names (scripts/rscs/results) in your cloned PathFX folder on your local drive. Subsequently, you can use the "runpathfx_scr.py" script in our "scripts" folder to run the last version of PathFX on your operating system and re-generate the results.
 -  The "scripts" folder includes all the scripts needed to re-generate our analyses:
-   - "map_scr.py": map drugs and map/match side effects
-   - "runpathfx_scr.py": run the last version of PathFX to generate the results of the paper
-   - "sepred_scr.py": evaluate per side effect in the baseline analysis (calculate the sensitivity and specificity values) and identify the key pathway genes
-   - "defpath_scr.py": define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways
-   - "evalnewpath_scr.py": evaluate (the novel defined) pathways per side effect and their corresponding phenotypes and produce the evaluation plots
+   - "map_scr.py": Map drugs and map/match side effects.
+   - "runpathfx_scr.py": Run the last version of PathFX to generate the results of the paper.
+   - "sepred_scr.py": Evaluate per side effect in the baseline analysis (calculate the sensitivity and specificity values) and identify the key pathway genes.
+   - "defpath_scr.py": Define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways.
+   - "evalnewpath_scr.py": Evaluate (the novel defined) pathways per side effect and their corresponding phenotypes and produce the evaluation plots.
 - Important Note: Make sure to update the directory paths in all scripts to match your local environment before running them.
 
 ## Citation
