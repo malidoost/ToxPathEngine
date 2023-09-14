@@ -28,9 +28,11 @@ Detailed instructions on how to use the code:
 
 - Clone this repository to your local machine.
 -  The "scripts" folder includes all the scripts needed to re-generate our analysis:
-   - map_scr: mapping drugs and mapping/matching side effects
-   - 
-4. 
+   - "map_scr.py": map drugs and map/match side effects
+   - "runpathfx_scr.py": run the last version of PathFX to generate the results of the paper
+   - "sepred_scr.py": evaluate per side effect in the baseline analysis and identify the key pathway genes
+   - "defpath_scr.py": define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways
+   - "evalnewpath_scr.py": evaluate the novel defined pathways per side effect and their corresponding phenotypes and produce the evaluation plots 
 
 ## Citation
 
