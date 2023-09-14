@@ -36,6 +36,7 @@ Detailed instructions on how to use the code:
    - "defpath_scr.py": Define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways.
    - "evalnewpath_scr.py": Evaluate (the novel defined) pathways per side effect and their corresponding phenotypes and produce the evaluation plots.
 - Important Note: Make sure to update the directory paths in all scripts to match your local environment before running them.
+- You can find the PathFX outcome for the drug Alteplase, as an example, in the "pathfx/results/" directory, which represents our final analysis results.
 
 ## Citation
 
