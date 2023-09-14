@@ -26,8 +26,8 @@ Prerequisites that are necessary to run the code:
 
 Detailed instructions on how to use the code:
 
-1. Clone this repository to your local machine.
-2. The "scripts" folder includes all the scripts needed to re-generate our analysis:
+- Clone this repository to your local machine.
+-  The "scripts" folder includes all the scripts needed to re-generate our analysis:
    - map_scr: mapping drugs and mapping/matching side effects
    - 
 4. 
