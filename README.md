@@ -36,8 +36,8 @@ Detailed instructions on how to use the code:
    - "defpath_scr.py": Define novel pathways using the distinct identified genes and omics data in addition to the old associated pathways.
    - "evalnewpath_scr.py": Evaluate (the novel defined) pathways per side effect and their corresponding phenotypes and produce the evaluation plots.
 - Important Note: Make sure to update the directory paths in all scripts to match your local environment before running them.
-- We parsed gene signature data from the PharmOmics dataset which was acquired from the authors Chen et al. [1]. We have included our Python code for extracting signature lists, but this requires the user to have obtained the original data.
-- This analysis also requires multiple files related to DrugBank which can be obtained from https://go.drugbank.com/releases. We downloaded release version 5.1.6, and parsed the XML database using this notebook as a guide: https://github.com/dhimmel/drugbank/blob/gh-pages/parse.ipynb. Specifically, the user will need a pickled dictionary "drugbankid_to_name.pkl".
+- We parsed gene signature data from the PharmOmics dataset which was acquired from the authors [**Chen et al., Iscience, 2022**] (http://mergeomics.research.idre.ucla.edu/runpharmomics.php). We have included our Python code for extracting signature lists, but this requires the user to have obtained the original data.
+- This analysis also requires multiple files related to DrugBank which can be obtained from [**DrugBank**](https://go.drugbank.com/releases). We downloaded release version 5.1.6, and parsed the XML database using this notebook as a guide: [**DrugBank/Parse**](https://github.com/dhimmel/drugbank/blob/gh-pages/parse.ipynb). Specifically, the user will need a pickled dictionary "drugbankid_to_name.pkl".
 - You can find the PathFX outcome for the drug Alteplase, as an example, in the "pathfx/results/" directory, which represents our final analysis results.
 
 ## Citation
