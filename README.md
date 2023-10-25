@@ -45,7 +45,3 @@ Detailed instructions on how to use the code:
 If you use this code or the associated research in your work, please consider citing our manuscript:
 
 Alidoost, Mohammadali and Wilson, L. Jennifer, "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models", Submitted (2023).
-
-
-[1] Chen, Yen-Wei, et al. "PharmOmics: A species-and tissue-specific drug signature database and gene-network-based drug repositioning tool." Iscience 25.4 (2022).
-
